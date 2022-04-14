@@ -1,4 +1,4 @@
-module example.com/wallet-backend
+module github.com/dqu123/wallet-backend
 
 go 1.17
 

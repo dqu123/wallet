@@ -10,9 +10,9 @@ import (
 	"os"
 	"time"
 
-	"example.com/wallet-backend/database"
-	"example.com/wallet-backend/logger"
-	"example.com/wallet-backend/models"
+	"github.com/dqu123/wallet-backend/database"
+	"github.com/dqu123/wallet-backend/logger"
+	"github.com/dqu123/wallet-backend/models"
 )
 
 const (

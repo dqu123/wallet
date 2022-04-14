@@ -3,7 +3,7 @@ package models
 import (
 	"fmt"
 
-	"example.com/wallet-backend/database"
+	"github.com/dqu123/wallet-backend/database"
 )
 
 func AutoMigrateModels(context *database.Context) {

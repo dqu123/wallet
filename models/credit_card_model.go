@@ -3,7 +3,7 @@ package models
 import (
 	"time"
 
-	"example.com/wallet-backend/database"
+	"github.com/dqu123/wallet-backend/database"
 	"gorm.io/gorm"
 )
 

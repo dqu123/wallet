@@ -7,10 +7,10 @@ import (
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm/clause"
 
-	"example.com/wallet-backend/database"
-	"example.com/wallet-backend/external/extend"
-	"example.com/wallet-backend/logger"
-	"example.com/wallet-backend/models"
+	"github.com/dqu123/wallet-backend/database"
+	"github.com/dqu123/wallet-backend/external/extend"
+	"github.com/dqu123/wallet-backend/logger"
+	"github.com/dqu123/wallet-backend/models"
 )
 
 type WalletController struct {

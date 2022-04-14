@@ -1,9 +1,9 @@
 package main
 
 import (
-	"example.com/wallet-backend/controllers"
-	"example.com/wallet-backend/database"
-	"example.com/wallet-backend/models"
+	"github.com/dqu123/wallet-backend/controllers"
+	"github.com/dqu123/wallet-backend/database"
+	"github.com/dqu123/wallet-backend/models"
 
 	"github.com/gin-gonic/gin"
 )
